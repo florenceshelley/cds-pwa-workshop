@@ -1,0 +1,17 @@
+{
+  "name": "Activities Shortcuts",
+  "short_name": "Shortcuts",
+  "start_url": "./",
+  "display": "standalone",
+  "scope": "./",
+  "theme_color": "#bb7162",
+  "background_color": "silver",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon-1924.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ]
+}
